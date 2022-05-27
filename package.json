@@ -18,10 +18,9 @@
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
-    
-    "express-openapi-validator": "^4.13.6",
-    
-    "pino": "^7.8.1"
+    "express-openapi-validator": "^0.41.0",
+    "pino": "^7.8.1",
+    "swagger-express-middleware": "^2.0.5"
   },
   "devDependencies": {
     "@types/chai": "^4.3.0",
@@ -32,6 +31,7 @@
     "@types/pino": "^7.0.4",
     "@types/shelljs": "^0.8.11",
     "@types/supertest": "^2.0.11",
+    "@types/swagger-express-middleware": "^1.0.11",
     "@typescript-eslint/eslint-plugin": "^5.14.0",
     "@typescript-eslint/parser": "^5.14.0",
     "chai": "^4.3.6",
